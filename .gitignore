@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Secrets
+auth/users.json
+
+# Data files
+data/
+
+# ML models
+*.pkl
+
+
